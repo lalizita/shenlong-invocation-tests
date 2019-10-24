@@ -1,0 +1,20 @@
+{
+  "name": "shenlong-invocation",
+  "version": "1.0.0",
+  "description": "This projects is a demo to show how develop an application using TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --watch shenlong"
+  },
+  "keywords": [
+    "tdd",
+    "dragon",
+    "ball",
+    "shenlong"
+  ],
+  "author": "Laís Lima",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
